@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![image](https://github.com/user-attachments/assets/694e21d4-df2c-43e2-9adc-68a1726cafec)
 
 **AndreiBaraitaru/AndreiBaraitaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
