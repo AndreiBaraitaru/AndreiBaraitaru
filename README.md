@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/29497375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29497375" height="30" width="40" /></a>
 <a href="https://kaggle.com/andreibaraitaru2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andreibaraitaru2" height="30" width="40" /></a>
