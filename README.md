@@ -3,7 +3,6 @@
 **AndreiBaraitaru/AndreiBaraitaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-C C++ CMake Python Flask JavaScript React Vue three.js Node.js p5js HTML CSS3 Linux Bash Script Docker Postman MySQL PostgreSQL Azure Arduino Raspberry Pi
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
