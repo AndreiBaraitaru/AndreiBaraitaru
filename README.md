@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Andrei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreiBaraitaru&show_icons=true&theme=radical)
+
+
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/29497375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29497375" height="30" width="40" /></a>
