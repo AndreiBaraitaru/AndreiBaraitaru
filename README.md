@@ -1,7 +1,7 @@
 <h1 align="center"> 👨🏻‍💻 Andrei Baraitaru 👋 </h1>
 
-<div align="center">
-*👋 Hey there you fellow developer! I'm Andrei, a Computer Science student at IE University in Madrid. Passionate about problem-solving, I specialize in AI Chatbots and Reco Systems and Web Application development.💻 Always eager to explore new technologies and collaborate on exciting projects. Sooo, if you have a cool project that I would be a good fit for, let's connect and build something awesome together! 🚀*
+<div align="center" style="italic">
+👋 Hey there you fellow developer! I'm Andrei, a Computer Science student at IE University in Madrid. Passionate about problem-solving, I specialize in AI Chatbots and Reco Systems and Web Application development.💻 Always eager to explore new technologies and collaborate on exciting projects. Sooo, if you have a cool project that I would be a good fit for, let's connect and build something awesome together! 🚀
 </div>
 
 <h3 align="center">Languages and Tools I use the most currently:</h3>
