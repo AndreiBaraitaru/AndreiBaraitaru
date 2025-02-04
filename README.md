@@ -1,8 +1,6 @@
 <h1 align="center"> 👨🏻‍💻 Andrei Baraitaru 👋 </h1>
 
-**AndreiBaraitaru/AndreiBaraitaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-*👋 Hey there you fellow developer! I'm Andrei, a Computer Science student at IE University in Madrid. Passionate about problem-solving and innovation, I specialize in Python, C++, Artificial Intelligence, and Web Application development. I enjoy building intelligent systems, optimizing algorithms, and creating seamless user experiences. Always eager to explore new technologies and collaborate on exciting projects. If you have a cool project that I would be a good fit for, let's connect and build something awesome together! 🚀*
+*👋 Hey there you fellow developer! I'm Andrei, a Computer Science student at IE University in Madrid. Passionate about problem-solving and innovation, I specialize in AI Chatbots and Reco Systems and Web Application development.💻 I'm always eager to explore new technologies and collaborate on exciting projects. Sooo, if you have a cool project that I would be a good fit for, let's connect and build something awesome together! 🚀*
 
 
 <h3 align="center">Languages and Tools I use the most currently:</h3>
